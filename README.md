@@ -1,0 +1,28 @@
+<!-- contributions:start -->
+
+<table>
+  <tr>
+    <th scope="row">
+      <sub>Merged · <a href="https://github.com/pulls?q=is%3Apr+author%3Aarbachak+is%3Apublic+-user%3Aarbachak+is%3Amerged+sort%3Aupdated-desc">All</a></sub>
+    </th>
+    <td>
+      <sub><a href="https://github.com/phuocng/1loc/pull/527" title="1loc: feat: add get-unique-arr-obj">1loc #527</a></sub>
+    </td>
+    <td>
+      <sub><a href="https://github.com/phuocng/1loc/pull/344" title="update boxHandler">1loc #344</a></sub>
+    </td>
+    <td><sub>3</sub></td>
+  </tr>
+  <tr>
+    <th scope="row">
+      <sub>Open · <a href="https://github.com/pulls?q=is%3Apr+author%3Aarbachak+is%3Apublic+-user%3Aarbachak+is%3Aopen+sort%3Aupdated-desc">All</a></sub>
+    </th>
+    <td>
+      <sub><a href="https://github.com/ubcent/react-github-summary/pull/4" title="set up the project to create summary. Created a form component, for e…">react-github-summary #4</a></sub>
+    </td>
+    <td><sub>—</sub></td>
+    <td><sub>1</sub></td>
+  </tr>
+</table>
+
+<!-- contributions:end -->
