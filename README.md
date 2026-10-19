@@ -18,7 +18,7 @@
       <sub>Open · <a href="https://github.com/pulls?q=is%3Apr+author%3Aarbachak+is%3Apublic+-user%3Aarbachak+is%3Aopen+sort%3Aupdated-desc">All</a></sub>
     </th>
     <td>
-      <sub><a href="https://github.com/ubcent/react-github-summary/pull/4" title="set up the project to create summary. Created a form component, for e…">react-github-summary #4</a></sub>
+      <sub><a href="https://github.com/maxence-charriere/go-app/pull/1146" title="Fix anchor navigation ignoring preventDefault">go-app #1146</a></sub>
     </td>
     <td><sub>—</sub></td>
     <td><sub>1</sub></td>
