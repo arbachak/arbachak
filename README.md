@@ -17,9 +17,11 @@
     <th scope="row">
       <sub>Open · <a href="https://github.com/pulls?q=is%3Apr+author%3Aarbachak+is%3Apublic+-user%3Aarbachak+is%3Aopen+sort%3Aupdated-desc">All</a></sub>
     </th>
+    <td>
+      <sub><a href="https://github.com/go-resty/resty/pull/1265" title="fix(multipart): respect reader offsets for Content-Length and retries">resty #1265</a></sub>
+    </td>
     <td><sub>—</sub></td>
-    <td><sub>—</sub></td>
-    <td><sub>0</sub></td>
+    <td><sub>1</sub></td>
   </tr>
 </table>
 
