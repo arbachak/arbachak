@@ -18,10 +18,12 @@
       <sub>Open · <a href="https://github.com/pulls?q=is%3Apr+author%3Aarbachak+is%3Apublic+-user%3Aarbachak+is%3Aopen+sort%3Aupdated-desc">All</a></sub>
     </th>
     <td>
+      <sub><a href="https://github.com/imroc/req/pull/553" title="fix: detect JSON and XML content types case-insensitively">req #553</a></sub>
+    </td>
+    <td>
       <sub><a href="https://github.com/maxence-charriere/go-app/pull/1156" title="Preserve empty crossorigin attributes">go-app #1156</a></sub>
     </td>
-    <td><sub>—</sub></td>
-    <td><sub>1</sub></td>
+    <td><sub>2</sub></td>
   </tr>
 </table>
 
